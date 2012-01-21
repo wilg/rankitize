@@ -30,3 +30,9 @@ You can then find the rank by calling {column name}_ranking.
  ```
  
 This gem is made to work with MySQL, which does not have a built in ranking function. It uses the technique mentioned here: http://arjen-lentz.livejournal.com/56292.html
+
+## Development
+
+Questions or problems? Please post them on the [issue tracker](https://github.com/supapuerco/rankitize/issues). You can contribute changes by forking the project and submitting a pull request. You can ensure the tests passing by running `bundle` and `rake`.
+
+This gem is created by Wil Gieseler and is under the MIT License.
